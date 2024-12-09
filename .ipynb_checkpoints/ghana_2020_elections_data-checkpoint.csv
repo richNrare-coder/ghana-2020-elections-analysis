@@ -1,0 +1,193 @@
+candidate_no,presidential_candidate,party_initials,full_party_name,votes,region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,100481,Volta Region
+2,John Dramani Mahama,NDC,National Democratic Congress,606508,Volta Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,4679,Volta Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,705,Volta Region
+5,Akua Donkor,GFP,Ghana Freedom Party,180,Volta Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,158,Volta Region
+7,Hassan Ayariga,APC,All People's Party,406,Volta Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,237,Volta Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,220,Volta Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,314,Volta Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,617,Volta Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,442,Volta Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,145584,Ahafo Region
+2,John Dramani Mahama,NDC,National Democratic Congress,116485,Ahafo Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,1493,Ahafo Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,194,Ahafo Region
+5,Akua Donkor,GFP,Ghana Freedom Party,49,Ahafo Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,51,Ahafo Region
+7,Hassan Ayariga,APC,All People's Party,150,Ahafo Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,113,Ahafo Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,82,Ahafo Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,52,Ahafo Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,135,Ahafo Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,103,Ahafo Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,613804,Central Region
+2,John Dramani Mahama,NDC,National Democratic Congress,538829,Central Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,15160,Central Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,1117,Central Region
+5,Akua Donkor,GFP,Ghana Freedom Party,478,Central Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,361,Central Region
+7,Hassan Ayariga,APC,All People's Party,468,Central Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,586,Central Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,323,Central Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,1042,Central Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,467,Central Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,804,Central Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,122742,North East Region
+2,John Dramani Mahama,NDC,National Democratic Congress,112306,North East Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,952,North East Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,292,North East Region
+5,Akua Donkor,GFP,Ghana Freedom Party,324,North East Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,198,North East Region
+7,Hassan Ayariga,APC,All People's Party,376,North East Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,505,North East Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,579,North East Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,205,North East Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,322,North East Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,322,North East Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,121230,Upper West Region
+2,John Dramani Mahama,NDC,National Democratic Congress,238972,Upper West Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,2240,Upper West Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,640,Upper West Region
+5,Akua Donkor,GFP,Ghana Freedom Party,360,Upper West Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,354,Upper West Region
+7,Hassan Ayariga,APC,All People's Party,487,Upper West Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,742,Upper West Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,2794,Upper West Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,328,Upper West Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,406,Upper West Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,1094,Upper West Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,292604,Bono Region
+2,John Dramani Mahama,NDC,National Democratic Congress,203329,Bono Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,4514,Bono Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,338,Bono Region
+5,Akua Donkor,GFP,Ghana Freedom Party,165,Bono Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,132,Bono Region
+7,Hassan Ayariga,APC,All People's Party,255,Bono Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,216,Bono Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,209,Bono Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,214,Bono Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,235,Bono Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,374,Bono Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,103865,Oti Region
+2,John Dramani Mahama,NDC,National Democratic Congress,181021,Oti Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,2459,Oti Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,265,Oti Region
+5,Akua Donkor,GFP,Ghana Freedom Party,200,Oti Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,97,Oti Region
+7,Hassan Ayariga,APC,All People's Party,195,Oti Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,228,Oti Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,371,Oti Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,240,Oti Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,263,Oti Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,282,Oti Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,170340,Upper East Region
+2,John Dramani Mahama,NDC,National Democratic Congress,335502,Upper East Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,3100,Upper East Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,879,Upper East Region
+5,Akua Donkor,GFP,Ghana Freedom Party,832,Upper East Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,359,Upper East Region
+7,Hassan Ayariga,APC,All People's Party,919,Upper East Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,868,Upper East Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,2890,Upper East Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,685,Upper East Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,1017,Upper East Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,1321,Upper East Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,1795824,Ashanti Region
+2,John Dramani Mahama,NDC,National Democratic Congress,653149,Ashanti Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,12564,Ashanti Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,1356,Ashanti Region
+5,Akua Donkor,GFP,Ghana Freedom Party,593,Ashanti Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,304,Ashanti Region
+7,Hassan Ayariga,APC,All People's Party,482,Ashanti Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,712,Ashanti Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,444,Ashanti Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,435,Ashanti Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,476,Ashanti Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,952,Ashanti Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,80605,Savannah Region
+2,John Dramani Mahama,NDC,National Democratic Congress,144244,Savannah Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,1409,Savannah Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,503,Savannah Region
+5,Akua Donkor,GFP,Ghana Freedom Party,212,Savannah Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,185,Savannah Region
+7,Hassan Ayariga,APC,All People's Party,387,Savannah Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,322,Savannah Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,344,Savannah Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,160,Savannah Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,279,Savannah Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,435,Savannah Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,409963,Northern Region
+2,John Dramani Mahama,NDC,National Democratic Congress,476550,Northern Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,3184,Northern Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,1510,Northern Region
+5,Akua Donkor,GFP,Ghana Freedom Party,394,Northern Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,438,Northern Region
+7,Hassan Ayariga,APC,All People's Party,900,Northern Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,1281,Northern Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,1209,Northern Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,498,Northern Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,545,Northern Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,1259,Northern Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,153341,Bono East Region
+2,John Dramani Mahama,NDC,National Democratic Congress,213694,Bono East Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,2923,Bono East Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,380,Bono East Region
+5,Akua Donkor,GFP,Ghana Freedom Party,143,Bono East Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,153,Bono East Region
+7,Hassan Ayariga,APC,All People's Party,409,Bono East Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,304,Bono East Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,231,Bono East Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,220,Bono East Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,210,Bono East Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,400,Bono East Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,752061,Eastern Region
+2,John Dramani Mahama,NDC,National Democratic Congress,470999,Eastern Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,9819,Eastern Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,854,Eastern Region
+5,Akua Donkor,GFP,Ghana Freedom Party,379,Eastern Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,211,Eastern Region
+7,Hassan Ayariga,APC,All People's Party,466,Eastern Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,510,Eastern Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,278,Eastern Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,363,Eastern Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,358,Eastern Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,642,Eastern Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,439724,Western Region
+2,John Dramani Mahama,NDC,National Democratic Congress,398549,Western Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,20638,Western Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,1143,Western Region
+5,Akua Donkor,GFP,Ghana Freedom Party,379,Western Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,223,Western Region
+7,Hassan Ayariga,APC,All People's Party,400,Western Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,367,Western Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,305,Western Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,787,Western Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,417,Western Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,508,Western Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,1253179,Greater Accra Region
+2,John Dramani Mahama,NDC,National Democratic Congress,1326489,Greater Accra Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,16112,Greater Accra Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,1763,Greater Accra Region
+5,Akua Donkor,GFP,Ghana Freedom Party,767,Greater Accra Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,231,Greater Accra Region
+7,Hassan Ayariga,APC,All People's Party,628,Greater Accra Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,522,Greater Accra Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,401,Greater Accra Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,1220,Greater Accra Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,685,Greater Accra Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,511,Greater Accra Region
+1,Nana Addo Dankwa Akufo-Addo,NPP,New Patriotic Party,175240,Western North Region
+2,John Dramani Mahama,NDC,National Democratic Congress,196556,Western North Region
+3,Christian Kwabena Andrews,GUM,Ghana Union Movement,4302,Western North Region
+4,Ivor Kobina Greenstreet,CPP,Convention People's Party,261,Western North Region
+5,Akua Donkor,GFP,Ghana Freedom Party,119,Western North Region
+6,Henry Herbert Lartey,GCPP,Great Consolidated Popular Party,109,Western North Region
+7,Hassan Ayariga,APC,All People's Party,210,Western North Region
+8,Percival Kofi Akpaloo,LPG,Liberal Party of Ghana,170,Western North Region
+9,David Asibi Ayindenaba Apasera,PNC,People's National Convention,202,Western North Region
+10,Brigitte Akosua Dzogbenuku,PPP,Progressive People's Party,86,Western North Region
+11,Nana Konadu Agyeman-Rawlings,NDP,National Democratic Party,117,Western North Region
+12,Alfred Kwame Asiedu Walker,IC,Independent Candidate,255,Western North Region
